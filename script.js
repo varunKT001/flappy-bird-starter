@@ -9,12 +9,10 @@ let bird = document.querySelector('.bird');
 let pipes = [...document.querySelectorAll('.pipe')];
 let score = document.querySelector('.score span');
 
-function init() {}
-
 function play() {}
 
 function collided(source, target) {}
 
 function gameOver() {}
 
-window.onload = init;
+window.onload = play;
