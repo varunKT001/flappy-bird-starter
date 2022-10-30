@@ -33,7 +33,7 @@ body {
 
 .pipe {
   position: absolute;
-  left: calc(100% - 50px);
+  left: 100%;
   top: 0;
   width: calc(var(--frame-size) / 10);
   height: 40%;
